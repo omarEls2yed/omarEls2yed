@@ -2,16 +2,7 @@
 <h3 align="center">Competitive programmer / Mentor At M3refa community / Cs student </h3>
 
 
------
 
-<br>
-<br>
-
-<div align='left'>
-
-<ul>
-
-<div align='center'>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -45,3 +36,11 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+
+<div align='left'>
+
+<ul>
+
+<div align='center'>
