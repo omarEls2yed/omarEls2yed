@@ -2,22 +2,6 @@
 <h3 align="center">Competitive programmer / Mentor At M3refa community / Cs student </h3>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/omarEls2yed">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarEls2yed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarEls2yed&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="omarEls2yed"/>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
 -----
 
 <br>
@@ -45,3 +29,19 @@
 
 <h1 align="middel">Languages and Tools:</h1>
 <p align="middel"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> </p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/omarEls2yed">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarEls2yed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarEls2yed&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="omarEls2yed"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
