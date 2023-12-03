@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @omarEls2yed
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning Basics of programming
