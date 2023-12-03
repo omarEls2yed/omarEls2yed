@@ -29,7 +29,9 @@
 
 <div align='center'>
 
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
   
 <p align="middel"> <img src="https://komarev.com/ghpvc/?username=omarEls2yed&label=Profile%20views&color=ff69b4&style=plastic" alt="omarEls2yed" /> </p>
