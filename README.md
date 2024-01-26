@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Elsayed </h1>
-<h3 align="center">Competitive programmer / Mentor At M3refa community / Cs student </h3>
+<h3 align="center">Competitive programmer / Mentor At icpc sohag / Cs student </h3>
 
 
 
