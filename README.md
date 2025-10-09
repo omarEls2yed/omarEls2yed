@@ -27,8 +27,9 @@
     <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" height="50" width="60" />
   </a>
   <a href="https://vjudge.net/user/omar_elsayed23" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/4077850?s=200&v=4" alt="VJudge" height="50" width="60" />
+  <img src="https://www.pngall.com/wp-content/uploads/17/Fun-Emoji-Character-Wearing-Stylish-Shade-PNG.png" alt="Cool Emoji" width="50" />
   </a>
+
 </p>
 
 ---
