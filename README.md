@@ -1,42 +1,57 @@
-<h1 align="center">Hi 👋, I'm Omar Elsayed </h1>
-<h3 align="center">Competitive programmer / Mentor At icpc sohag / Cs student </h3>
+<h1 align="center">Hi 👋, I'm Omar Elsayed</h1>
+<h3 align="center">
+  🎓 SE Senior Student | 🥈 2x ECPC Finalist | 🧠 Expert @ Codeforces | 💻 .NET Backend Developer | 👨‍🏫 Mentor @ ICPC Sohag
+</h3>
 
+<br>
 
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</a>
-
-  
-<p align="middel"> <img src="https://komarev.com/ghpvc/?username=omarEls2yed&label=Profile%20views&color=ff69b4&style=plastic" alt="omarEls2yed" /> </p>
-
-<h1 align="middel">Connect with me:</h1>
-<p align="middel">
-<a href="https://www.linkedin.com/in/omar-elsayed-ab4a11258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Omar Elsayed" height="60" width="70" /></a>
-<a href="https://www.facebook.com/omar.elsayed.5686322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Omar Elsayed" height="60" width="70" /></a>
-<a href="https://codeforces.com/profile/omar--elsyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omar--elsyed" height="60" width="70" /></a>
-</p>
-<h1 align="middel">Languages and Tools:</h1>
-<p align="middel"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
-<a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cplusplus" width="60" height="60"/> </a>
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="MSSQL" height="80" width="80" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer GIF" width="300" align="right">
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
-<div align="center">
+---
 
-<a href="https://github.com/omarEls2yed">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarEls2yed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarEls2yed&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="omarEls2yed"/>
-</a>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div align='left'>
-<ul>
-<div align='center'>
+### 🌐 Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-elsayed-ab4a11258/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
+  </a>
+  <a href="https://www.facebook.com/omar.elsayed.5686322" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="60" />
+  </a>
+  <a href="https://codeforces.com/profile/omar--elsyed" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="50" width="60" />
+  </a>
+  <a href="https://atcoder.jp/users/OMAR_JR" target="_blank">
+    <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" height="50" width="60" />
+  </a>
+  <a href="https://vjudge.net/user/omar_elsayed23" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/4077850?s=200&v=4" alt="VJudge" height="50" width="60" />
+  </a>
+</p>
+
+---
+
+### 🧰 Languages & Tools:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" width="50" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarEls2yed&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarEls2yed&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+
+<h3 align="center">💬 "Code. Learn. Inspire." 💬</h3>
