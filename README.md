@@ -5,7 +5,7 @@
   <a href="https://www.facebook.com/omar.elsayed.5686322" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a>
 </p>
 
- **<h3 align="left">🚀 Passionate .NET Backend Developer & Computer Science Senior at FCI Sohag University. <br><br> 🧠 Expert @ Codeforces | 🥈 2x ECPC Finalist | 👨‍🏫 EX-Mentor @ ICPC Sohag <br><br> I specialize in building robust, high-concurrency backend systems and have a profound problem-solving foundation with over 3,000 problems solved across various competitive programming platforms.</h3>**
+ **<h3 align="left">🚀 Passionate .NET Backend Developer studying Computer Science at FCI Sohag University. <br><br> 🧠 Expert @ Codeforces | 🥈 2x ECPC Finalist | 👨‍🏫 EX-Mentor @ ICPC Sohag <br><br> I specialize in building robust, high-concurrency backend systems and have a profound problem-solving foundation with over 3,000 problems solved across various competitive programming platforms.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
