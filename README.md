@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="32" alt="Git" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="32" alt="Linux" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/SignalR-0078D4?style=flat&logo=microsoft&logoColor=white" alt="SignalR" />
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
   <img src="https://img.shields.io/badge/Keycloak-000000?style=flat&logo=keycloak&logoColor=white" alt="Keycloak" />
   <img src="https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=newrelic&logoColor=white" alt="New Relic" />
 </div>
