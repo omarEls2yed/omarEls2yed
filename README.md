@@ -17,6 +17,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" height="32" alt="C#" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet&logoColor=white" height="32" alt=".NET" style="margin-right: 4px"> 
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET 10" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?logo=dot-net&logoColor=white" height="32" alt="ASP.NET Core" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Entity_Framework-3199E0?logo=microsoft&logoColor=white" height="32" alt="Entity Framework" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" height="32" alt="C++" style="margin-right: 4px"> 
@@ -33,4 +34,8 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="32" alt="Git" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="32" alt="Linux" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/SignalR-0078D4?style=flat&logo=microsoft&logoColor=white" alt="SignalR" />
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Keycloak-000000?style=flat&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=newrelic&logoColor=white" alt="New Relic" />
 </div>
